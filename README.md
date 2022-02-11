@@ -1,14 +1,5 @@
 # appium-webdriverio-from-scratch
-appium-webdriverio-from-scratch
 
-Day 1 - Cài đặt môi trường trên MacOS
-  - Cài đặt NodeJS
-  - Cài đặt Java JDK
+### [Project Outline](https://github.com/tnguyenngocqa/appium-webdriverio-from-scratch/projects/1)
 
-Day 2 - Android - Cài đặt WebdriverIO
-
-Day 3 - Android - Tìm Elements
-
-Day 4 - iOS - Cài đặt WebdriverIO
-
-Day 5 - iOS - Tìm Elements
+![Screen Shot 2022-02-11 at 10 29 47](https://user-images.githubusercontent.com/51280278/153533488-606a5a7d-450b-40c3-83e2-889246b66c83.png)
